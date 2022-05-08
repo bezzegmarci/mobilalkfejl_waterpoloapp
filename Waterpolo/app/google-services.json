@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503256008469",
+    "project_id": "waterpolo-app-9a4ac",
+    "storage_bucket": "waterpolo-app-9a4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503256008469:android:0556308042b511db3c8b1c",
+        "android_client_info": {
+          "package_name": "com.example.waterpolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503256008469-dbsgokt4pg5jfo0sec7t72ka39s38mhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waterpolo",
+            "certificate_hash": "c7f1d3d4f909db615cdfc3af27cf4b8198eca508"
+          }
+        },
+        {
+          "client_id": "503256008469-8hsdmucle6jqv4v9asjkn5jmpqoqq46h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9CT8CQuV_gaw3MEtoSEqxQAa5Dwwgs5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503256008469-8hsdmucle6jqv4v9asjkn5jmpqoqq46h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

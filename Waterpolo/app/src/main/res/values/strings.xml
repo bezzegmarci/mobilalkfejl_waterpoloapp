@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Waterpolo</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="admin">Admin</string>
+    <string name="guest">Látogató</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="address">Cím</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="loginAsGuest">Bejelentekezés vendégként</string>
+    <string name="loginWithGoogle">Bejelentkezés google fiókkal</string>
+    <string name="item_placeholder">Bajnokság neve</string>
+    <string name="info">Infó</string>
+    <string name="delete">Törlés</string>
+    <string name="udvozles">Üdv az alkalmazásban!</string>
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="championship_item_names">
+        <item>E.ON Férfi OB I Osztályú Bajnokság</item>
+        <item>E.ON Női OB I. Bajnokság</item>
+        <item>Férfi OB I/B Bajnokság </item>
+        <item>BENU Fiú Ifjúsági Országos Vízilabda Bajnokság</item>
+        <item>BENU Fiú Serdülő Országos Vízilabda Bajnokság</item>
+        <item>BENU Fiú Gyermek Országos Vízilabda Bajnokság</item>
+    </string-array>
+    <string-array name="championship_item_info">
+        <item>Magyarország első számú férfi vízilabda bajnoksága</item>
+        <item>Magyarország első számú női vízilabda bajnoksága</item>
+        <item>Magyarország második számú férfi vízilabda bajnoksága</item>
+        <item>Magyarország első számú fiú ifjúsűgi vízilabda bajnoksága</item>
+        <item>Magyarország első számú fiú serdülő vízilabda bajnoksága</item>
+        <item>Magyarország első számú fiú gyermek vízilabda bajnoksága</item>
+    </string-array>
+    <string-array name="championship_item_images">
+        <item>@drawable/ferfiob1</item>
+        <item>@drawable/noiob1</item>
+        <item>@drawable/ob1b</item>
+        <item>@drawable/ifi</item>
+        <item>@drawable/serdulo</item>
+        <item>@drawable/gyermek</item>
+    </string-array>
+</resources>
